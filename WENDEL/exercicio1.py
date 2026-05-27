@@ -1,7 +1,8 @@
-nome = str(input(''))
-idade = int(input(''))
-altura = float(input(''))
-estudo = bool(input(''))
-if estudo == 'estudando' :
-    estudo = True
-print(f'seu nome é {nome}\nvoce tem {idade} anos\nsua altura é {altura}\ voce esta estudando programaçao {estudo} ')
+ni = 10
+n2 = '' 
+n3 = 1.90
+n4 = True
+print(type(ni))
+print(type(n2))
+print(type(n3))
+print(type(n4))
